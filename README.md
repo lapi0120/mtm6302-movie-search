@@ -1,2 +1,4 @@
-# mtm6302-movie-search
-This repository contains the starter files for the Movie Search project.
+# Movie Search
+
+## Objective
+Demonstrate how to use Ajax to create a movie searching site. 
