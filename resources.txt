@@ -1,0 +1,17 @@
+Movies API URL:
+http://www.omdbapi.com/?apikey=1c482164&s=search&type=movie
+
+IMDb URL:
+https://www.imdb.com/title/imdbID
+
+Bootstrap Card:
+<div class="card">
+  <div class="card-image">
+    <img class="card-img-top" src="..." alt="...">
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">...</h5>
+    <a href="..." target="_blank">Go to IMDb</a>
+  </div>
+</div>
+

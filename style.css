@@ -1,0 +1,13 @@
+.results {
+  display: grid;
+  grid-template-columns: repeat(3, 300px);
+  justify-content: space-between;
+  grid-gap: 15px;
+
+  padding: 2em 0;
+}
+
+.card-image {
+  height: 427px;
+  overflow: hidden;
+}
